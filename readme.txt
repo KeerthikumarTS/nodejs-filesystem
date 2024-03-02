@@ -1,0 +1,7 @@
+Render URL: https://nodejs-filesystem-ndh6.onrender.com
+
+1.file creation endpoint: /file
+
+2.file reading endpoint: /read
+
+GITHUB Repo URL : https://github.com/KeerthikumarTS/nodejs-filesystem
